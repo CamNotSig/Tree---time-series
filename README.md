@@ -18,4 +18,4 @@ Aplicación interactiva construida en React que permite explorar de forma visual
 
 ## Demo
 
-https://camnotsig.github.io/Tree---time-series
+https://bycamiloam.github.io/Tree---time-series
